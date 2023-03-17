@@ -87,3 +87,15 @@ class Blackjack:
 
     def registrar_jugador(self, nombre):
         self.jugador = Jugador(nombre, Blackjack.FICHAS_INICIALES)
+
+        def iniciar_juego(self, apuesta: int):
+            self.apuesta_actual = apuesta
+
+        def es_blackjack(self, mano):
+            pass
+
+        def es_empate(selfself, mano):
+            pass
+
+        def calcular_fichas(self, apuesta):
+            pass
