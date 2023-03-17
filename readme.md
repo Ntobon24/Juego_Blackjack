@@ -1,1 +1,1 @@
-ve
+Ejercicio depractida modelo de mundo de blackjack
