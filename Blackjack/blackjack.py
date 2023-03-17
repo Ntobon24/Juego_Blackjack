@@ -94,7 +94,7 @@ class Blackjack:
         def es_blackjack(self, mano):
             pass
 
-        def es_empate(selfself, mano):
+        def es_empate(self, mano):
             pass
 
         def calcular_fichas(self, apuesta):
